@@ -11,6 +11,9 @@
         "Gamko": [
             {
                 "name": "Sokilla"
+            },
+            {
+                "name": "Vilenna"
             }
         ],
         "Dex": [
@@ -46,31 +49,132 @@
             }
         ],
         "Anjelikà": [
-        {
-            "name": "Anjelikà"
-        }
+            {
+                "name": "Anjelikà"
+            }
         ],
         "Beranc": [
             {
                 "name": "Berancx"
             },
             {
-                "name": "Bernach"
+                "name": "Beranch"
             }
         ],
-        "Nhaji":[
+        "Nhaji": [
             {
                 "name": "Nhaji"
             }
         ],
-        "Twise":[
+        "Twise": [
             {
                 "name": "Twiseblast"
             },
             {
                 "name": "Twisehunt"
+            },
+            {
+                "name": "Twisetwice"
+            }
+        ],
+        "Lynni": [
+            {
+                "name": "Chinini"
+            },
+            {
+                "name": "Niksii"
+            }
+        ],
+        "Insane": [
+            {
+                "name": "Sathar"
+            },
+            {
+                "name": "Insanejunkie"
+            }
+        ],
+        "Quande": [
+            {
+                "name": "Tnent"
+            },
+            {
+                "name": "Quande"
+            }
+        ],
+        "Vudah": [
+            {
+                "name": "Vudah"
+            }
+        ],
+        "Chevs": [
+            {
+                "name": "Chevs"
+            }
+        ],
+        "Dranet": [
+            {
+                "name": "Dranet"
+            },
+            {
+                "name": "Thurå"
+            }
+        ],
+        "Aevo": [
+            {
+                "name": "Aevonerium"
+            },
+            {
+                "name": "Nemesakos"
+            }
+        ],
+        "Smulman": [
+            {
+                "name": "Eksdee"
+            },
+            {
+                "name": "Smulman"
+            },
+            {
+                "name": "Gommloco"
+            }
+        ],
+        "Kaly": [
+            {
+                "name": "Kály"
+            },
+            {
+                "name": "Kalywl"
+            }
+        ],
+        "Milvas": [
+            {
+                "name": "Milvas"
+            }
+        ],
+        "Shibbi": [
+            {
+                "name": "Shibb"
+            }
+        ],
+        "Juggz": [
+            {
+                "name": "Juggz"
+            }
+        ],
+        "Blade": [
+            {
+                "name": "ßlâde"
+            }
+        ],
+        "Salty": [
+            {
+                "name": "Saltyblonde"
+            }
+        ],
+        "Trentas": [
+            {
+                "name": "Trentas"
             }
         ]
-
     }
 }
