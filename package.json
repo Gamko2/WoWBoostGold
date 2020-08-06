@@ -1,0 +1,28 @@
+{
+  "name": "wowboostgold",
+  "version": "1.0.0",
+  "description": "Tool to read names out for gold payout",
+  "main": "dist/main.js",
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "axios": "^0.19.2",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "google-spreadsheet": "^3.0.11",
+    "ts": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gamko2/WoWBoostGold.git"
+  },
+  "author": "Marc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gamko2/WoWBoostGold/issues"
+  },
+  "homepage": "https://github.com/Gamko2/WoWBoostGold#readme"
+}
