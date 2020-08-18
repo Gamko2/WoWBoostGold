@@ -1,0 +1,76 @@
+{
+    "characters": {
+        "Proto": [
+            {
+                "name": "Protoclap"
+            },
+            {
+                "name": "Protoslayer"
+            }
+        ],
+        "Gamko": [
+            {
+                "name": "Sokilla"
+            }
+        ],
+        "Dex": [
+            {
+                "name": "Dex"
+            }
+        ],
+        "Crusaden": [
+            {
+                "name": "Chivandra"
+            },
+            {
+                "name": "Akatosch"
+            }
+        ],
+        "Nutbutter": [
+            {
+                "name": "Nutbutter"
+            },
+            {
+                "name": "Butterkeks"
+            }
+        ],
+        "Silverhaze": [
+            {
+                "name": "Remixl"
+            },
+            {
+                "name": "Silverhazer"
+            },
+            {
+                "name": "Endo"
+            }
+        ],
+        "Anjelikà": [
+        {
+            "name": "Anjelikà"
+        }
+        ],
+        "Beranc": [
+            {
+                "name": "Berancx"
+            },
+            {
+                "name": "Bernach"
+            }
+        ],
+        "Nhaji":[
+            {
+                "name": "Nhaji"
+            }
+        ],
+        "Twise":[
+            {
+                "name": "Twiseblast"
+            },
+            {
+                "name": "Twisehunt"
+            }
+        ]
+
+    }
+}
